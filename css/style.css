@@ -1850,6 +1850,7 @@ p {
     float: right;
     margin-left: 5px;
     margin-top: 10px;
+    line-height: 45px;
 }
 
 .group-text {
